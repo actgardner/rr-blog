@@ -1,5 +1,11 @@
 /* Reset font element sizes to support Markdown better */
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h1 {
   @extend .text-4xl;
   @extend .mb-6;
