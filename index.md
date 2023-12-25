@@ -1,3 +1,9 @@
+---
+id: home 
+layout: default
+title: Home 
+permalink: /
+---
 <ul>
   {% for post in site.posts %}
     <li>

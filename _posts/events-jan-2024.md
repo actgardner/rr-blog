@@ -1,4 +1,5 @@
 ---
+id: 2024-jan
 layout: default
 title: Ottawa Roller Skate Events - January 2024 
 permalink: /events/2024-jan
