@@ -1,0 +1,49 @@
+---
+layout: default
+title: Ottawa Roller Skate Events - January 2024 
+permalink: /events/2024-jan
+---
+
+![](img/2024-jan.png)
+
+### Rideau Rollers is back! - Jan 3
+
+We're taking a brief holiday, but we'll be open Jan 3 from 1-6PM for all your rollerskating needs. Come check out our winter sales!
+
+### Skate Maintenance Night - Jan 18
+
+Drop in at Rideau Rollers from 4-6PM for skate maintenance help! Borrow our tools to tune up your new skates and ask questions about bearings, cushions, wheels, etc. 
+
+Free to attend.
+
+### Scary Bear Soundtrack + Matty Grace - Jan 27
+ 
+Rideau Rollers hosts our first DIY show! This is a dry, all-ages fundraiser for the Ottawa Trans Library. Doors at 7:30, PWYC/NOTAFLOF (recommended donation $15).
+
+More details coming soon.
+
+### City of Ottawa - Lansdowne Open Skate
+
+The City of Ottawa hosts low-cost flat-ground skate sessions in the Horticulture Building at Lansdowne. The floor is polished concrete and can be slippery.
+
+This month there's two sessions on Tuesdays: 6:15 and 7:20PM. It's not necessary to book in advance.
+
+[Lansdowne Recreation Website](https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/lansdowne-park#section-02912a99-d98a-4837-9916-79bb10930795) - under "Drop-in Schedule - roller sports"
+
+
+### City of Ottawa - Lansdowne Indoor Skate Park 
+
+The City of Ottawa has a free, indoor skate park in the Aberdeen Pavillion at Lansdowne. There are a variety of temporary park features built by the Ottawa Skateboard Association.
+
+Normally sessions that fill up quickly, but the sessions for women, non-binary and GNC skaters are much less busy. They alternate between 6:30PM and 8:00PM on Wednesday nights in January.
+
+[Lansdowne Recreation Website](https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/lansdowne-park#section-02912a99-d98a-4837-9916-79bb10930795) - under "Drop-in Schedule - roller sports"
+
+
+### OQS at Carleton
+
+Ottawa Quad Rollerskating Club (OQS) runs a weekly roller disco at Carleton's Norm Fenn Gym on Friday nights. They have a large hardwood floor and disco music.
+
+Book your tickets and rental skates online on Eventbrite. There is no session January 12.
+
+[Ottawa Quad Sessions Website](https://ottawaquadsession.com/)
