@@ -6,7 +6,9 @@ permalink: /where-to-skate-in-ottawa
 
 ## Where to Skate in Ottawa
 
-Want to have your event listed here? Contact us at info@rideaurollers.com
+This is a listing of venues and community organizations. Check out our blog for a list of specific upcoming events this month!
+
+Want to have your group listed here? Contact us at info@rideaurollers.com
 
 ### Ottawa Quad Rollerskating Club
 OQS runs a weekly roller disco at Carleton's Norm Fenn Gym (in the winter) or the Rideau Curling Club (in the summer). They also run themed roller discos in a number of venues.
