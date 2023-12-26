@@ -1,11 +1,9 @@
 ---
 id: coc
-layout: default
+layout: single 
 title: Code of Conduct 
 permalink: /code-of-conduct
 ---
-## Code of Conduct
-
 All Rideau Rollers events are governed by our Code of Conduct. By attending our events you agree to abide by this Code. If you have feedback or improvements, email Alysha at alysha@rideaurollers.com.
 
 ### Diversity Statement
