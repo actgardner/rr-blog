@@ -12,3 +12,20 @@ plugins:
 url: "https://blog.rideaurollers.com"
 paginate: 5
 paginate_path: /page:num/
+author:
+  name             : "Rideau Rollers"
+  avatar           : "assets/images/shop.png" 
+  bio              : "Ottawa's store for all things roller skating!"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sales@rideaurollers.com"
+    - label: "Store"
+      icon: "fas fa-fw fa-link"
+      url: "https://rideaurollers.com"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+       url: "https://facebook.com/rideaurollers"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+       url: "https://instagram.com/rideau_rollers"
