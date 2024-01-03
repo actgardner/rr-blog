@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/gloria.png
 ---
 
-Gloria Guns is a musician, bureaucrat, and one of the best aggressive quad skaters currently active in Ottawa today. 
+Gloria Guns ([@gunsglorious on instagram](https://www.instagram.com/gunsglorious)) is a musician, bureaucrat, and one of the best aggressive quad skaters currently active in Ottawa today. 
 
 Their lines combine intricate coping stalls and side-stance skating in the style of old-school vert skaters. Recently they placed third in the intermediate category of the 8Lives mini-ramp competition in Toronto. I asked Gloria over email about the comp, park skating in Ottawa, and their music.
 
