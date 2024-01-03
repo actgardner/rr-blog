@@ -7,9 +7,13 @@ teaser: /assets/images/gloria.png
 permalink: /profile/gloria-guns
 ---
 
-Gloria Guns is a musician, bureaucrat, and one of the best aggressive quad skaters currently active in Ottawa today. Their lines combine intricate coping stalls and side-stance skating in the style of old-school vert skaters. Recently they placed third in the intermediate category of the 8Lives min-ramp comp in Toronto.
+Gloria Guns is a musician, bureaucrat, and one of the best aggressive quad skaters currently active in Ottawa today. 
 
-I asked Gloria over email about the comp, park skating in Ottawa, and their music.
+Their lines combine intricate coping stalls and side-stance skating in the style of old-school vert skaters. Recently they placed third in the intermediate category of the 8Lives mini-ramp competition in Toronto. I asked Gloria over email about the comp, park skating in Ottawa, and their music.
+
+[![](/assets/images/gloria.png)](/assets/images/gloria.png)
+
+_Gloria (center) at the Sk8Fest HQ._
 
 _Alysha: Congrats on winning at 8Lives! How was the experience of competing in your first skate comp?_
 
