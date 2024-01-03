@@ -3,8 +3,9 @@ layout: single
 category: skater-profiles 
 title: Skater Profile - Gloria Guns
 share: true
-teaser: /assets/images/gloria.png
 permalink: /profile/gloria-guns
+header:
+  teaser: /assets/images/gloria.png
 ---
 
 Gloria Guns is a musician, bureaucrat, and one of the best aggressive quad skaters currently active in Ottawa today. 
