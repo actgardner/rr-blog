@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Where to Skate in Ottawa 
+layout: single 
 permalink: /where-to-skate-in-ottawa
 ---
 
