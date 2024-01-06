@@ -36,14 +36,15 @@ Taught in the Street Section of The Yard (upstairs). The Street Section will be 
 
 __Intermediate Bowl (8-9PM)__
 
-This is a workshop for skaters who are confident at park skating and want to level up. Topics may include carving in bowls forward and backwards, getting familiar with the coping, stalls, variations of drop ins, jump tricks, maintaining and gaining speed. 
+This is a workshop for skaters who are confident at park skating and want to level up. Topics may include carving in bowls forward and backwards, getting familiar with the coping, stalls, variations of drop ins, jump tricks, maintaining and gaining speed. You should be comfortable dropping in on the bowl at The Yard (3').
+
 Taught in the bowl at The Yard. The bowl will be free before and after the lesson for free skating.
 
 [Buy Tickets](https://rideaurollers.com/products/Rideau-Rollers-x-The-Yard-Intermediate-Bowl-Workshop-Feb-10-p617779709)
 
-__Intermediate Street (9-10PM)__
+__Novice Street (9-10PM)__
 
-This is a workshop for skaters who have park skating experience but want to unlock new skills. Possible topics include drop-ins, box slides, rotations, grinds, basic lines, keeping the flow in the streets and tips on using wax, 
+This is a workshop for skaters who have some park skating experience but want to unlock new skills. You should be comfortable rolling down a bank, pumping and rolling into transitions. Possible topics include drop-ins, box slides, rotations, grinds, basic lines, keeping the flow in the streets and tips on using wax.  
 
 Taught in the Street Section of The Yard (upstairs). The Street Section will be open for an hour before for free skating.
 
@@ -56,3 +57,5 @@ This event is being offered at cost by Rideau Rollers. If the cost is a barrier 
 ## Code of Conduct
 
 This event is governed by our [Code of Conduct](https://blog.rideaurollers.com/code-of-conduct). 
+
+__Updated Jan 6: Renamed "Intermediate Street" to "Novice Street" and clarified the level of skill required__
