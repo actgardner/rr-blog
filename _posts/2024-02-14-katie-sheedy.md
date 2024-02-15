@@ -8,9 +8,11 @@ header:
   teaser: /assets/images/katie.jpg
 ---
 
-Katie Sheedy is an illustrator and roller derby skater based in Renfrew. She’s the coach of the 2024 Ottawa Valley Rapids and a member of Team Ontario. Katie is also responsible for our Ripley t-shirt design and lots of our marketing materials!
+[Katie Sheedy](https://www.instagram.com/sheedy.katie/) is an illustrator and roller derby skater based in Renfrew. She’s the coach of the 2024 Ottawa Valley Rapids and a member of Team Ontario. Katie is also responsible for our Ripley t-shirt design and lots of our marketing materials!
 
 [![](/assets/images/katie.jpg)](/assets/images/katie.jpg)
+
+_An illustration by Katie of herself playing on Team Ontario_
 
 **Everyone at OVRD is eternally grateful for you taking up the mantle and coaching the Rapids (the WFTDA travel team). You’re also a player on the Rapids and Team Ontario. What’s your experience of being a player/coach like?**
 
