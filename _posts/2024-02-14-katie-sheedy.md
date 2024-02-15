@@ -33,7 +33,8 @@ That being said, it has been incredibly satisfying to be challenged at this leve
 
 The knowledge transfer and resource sharing between leagues has also been a wonderful element that I was not anticipating. I have been so lucky to get the opportunity to learn so much.
 
-Besides roller derby you also work in illustration, and you post a sketch every day on your Instagram. A lot of the drawings are derby-related. Do you find sketching about derby cathartic or like a journal of all your experiences?
+**Besides roller derby you also work in illustration, and you post a sketch every day on your Instagram. A lot of the drawings are derby-related. Do you find sketching about derby cathartic or like a journal of all your experiences?**
+
 I started the daily drawing project in 2016 and I have completed an illustration every day since then. Because I very quickly ran out of things to draw, I often rely on my hobbies and day-to-day routines for inspiration. I spend a lot of time playing and organizing roller derby, so it features heavily in my work. What can I say…I just really, really, really love roller skating.
 
 **How did you get started roller skating?**
