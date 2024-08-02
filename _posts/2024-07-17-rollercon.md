@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/rollercon-2024/1.png
 ---
 
-We asked Ottawa skater Gloria Guns about her experience attending RollerCon 2024. Here's her account of 4 days in Las Vegas trying everything the con has to offer.
+We asked Ottawa skater [Gloria Guns](https://www.instagram.com/gunsglorious/) about her experience attending RollerCon 2024. Here's her account of 4 days in Las Vegas trying everything the con has to offer.
 
 [![](/assets/images/rollercon-2024/1.png)](/assets/images/rollercon-2024/1.png)
 
